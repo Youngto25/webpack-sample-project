@@ -1,0 +1,10 @@
+# webpack-sample-project
+
+预览：
+
+- 文件夹app  放置未编译的原始数据
+- 文件夹public 放置经过webpack编译过的数据
+- .gitignore  不上传到github上的文件列表
+- .babelrc  babel-loader的配置内容
+- postcss.config.js postcss-loader的配置内容
+- webpack.config.js webpack的配置内容，包括mode entry output  devServer modules等
