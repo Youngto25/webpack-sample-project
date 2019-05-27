@@ -1,6 +1,6 @@
 # webpack-sample-project
 
-预览：
+## 预览：https://youngto25.github.io/webpack-sample-project/public/index.html
 
 - 文件夹app  放置未编译的原始数据
 - 文件夹public 放置经过webpack编译过的数据
